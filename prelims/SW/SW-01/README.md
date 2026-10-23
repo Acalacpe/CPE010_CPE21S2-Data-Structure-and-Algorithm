@@ -1,19 +1,17 @@
-# SW 1 | Functions and Conditional Statements
+# Functions and Conditional Statements
 
-Quiz-average calculation and a cashiering program that calculates change.
+**Prelims · Seatwork 1**  
+CPE010 · A.Y. 2026–2027
 
-## Source Files
+## Files
 
-- [Quiz.cpp](Quiz.cpp)
-- [Cashiering system.cpp](Cashiering%20system.cpp)
+| File | Contents |
+| --- | --- |
+| [SEATWORK 1 PART 1-1.pdf](SEATWORK%201%20PART%201-1.pdf) | Report |
+| [SEATWORK 1 PART 2-1.pdf](SEATWORK%201%20PART%202-1.pdf) | Report |
+| [Quiz.cpp](Quiz.cpp) | C++ source |
+| [Cashiering system.cpp](Cashiering%20system.cpp) | C++ source |
 
-The original source contents and filenames are preserved. Programs with separate `main()` functions should be built individually.
+Each program with its own `main()` function is a separate exercise. Source files retain their original contents and filenames.
 
-## Submitted Materials
-
-- [SEATWORK 1 PART 1-1.pdf](https://drive.google.com/file/d/1OTpv6fDg8ESCROOJkn5x8xLZqFN1zyuG/view?usp=drivesdk)
-- [SEATWORK 1 PART 2-1.pdf](https://drive.google.com/file/d/17n5-YqoXKyP0sCiOXZ7SSkKJ92N32ctI/view?usp=drivesdk)
-
-[Original Drive folder](https://drive.google.com/drive/folders/1aourPDfedtqYnUVk5AhZfWnIQFp0ffo8)
-
-[Back to Prelims SW](../)
+[Activity index](../) · [Course overview](../../../README.md) · [Original submission](https://drive.google.com/drive/folders/1aourPDfedtqYnUVk5AhZfWnIQFp0ffo8)

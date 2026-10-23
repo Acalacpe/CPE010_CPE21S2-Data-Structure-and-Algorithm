@@ -1,5 +1,7 @@
-# Finals | Seatwork (SW)
+# Finals · Seatwork
 
-Seatwork: TBA.
+CPE010 · A.Y. 2026–2027
 
-[Back to Finals](../)
+No seatwork submissions are currently available for this term.
+
+[Back to course overview](../../README.md)

@@ -1,13 +1,15 @@
-# Prelims | Hands-on Activity (HOA)
+# Prelims · Hands-on Activities
 
-| Activity | Topic | Folder |
-| --- | --- | --- |
-| HOA 1 | C++ Fundamentals and Classes | [Open](HOA-01/) |
-| HOA 2 | Arrays, Pointers, and Dynamic Memory Allocation | [Open](HOA-02/) |
-| HOA 3 | Linked Lists | [Open](HOA-03/) |
-| HOA 4 | Stacks | [Open](HOA-04/) |
-| HOA 5 | Queues and Circular Arrays | [Open](HOA-05/) |
+CPE010 · A.Y. 2026–2027
 
-Each activity folder contains the available C++ source files, a topic overview, and links to the submitted report in Drive.
+| Activity | Topic |
+| --- | --- |
+| HOA 1 | [C++ Fundamentals and Classes](HOA-01/) |
+| HOA 2 | [Arrays, Pointers, and Dynamic Memory Allocation](HOA-02/) |
+| HOA 3 | [Linked Lists](HOA-03/) |
+| HOA 4 | [Stacks](HOA-04/) |
+| HOA 5 | [Queues and Circular Arrays](HOA-05/) |
 
-[Course README](../../README.md)
+Open a topic to view its original source files, reports, or screenshots.
+
+[Back to course overview](../../README.md)

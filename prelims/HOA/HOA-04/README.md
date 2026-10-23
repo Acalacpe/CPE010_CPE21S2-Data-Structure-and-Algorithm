@@ -1,26 +1,22 @@
-# HOA 4 | Stacks
+# Stacks
 
-Linked-list stacks and balanced-symbol checking using array and linked-list implementations.
+**Prelims · Hands-on Activity 4**  
+CPE010 · A.Y. 2026–2027
 
-## Activity Learning Outcomes
+## Learning Objectives
 
 - Implement stack operations using a linked list.
 - Apply stacks to check whether delimiters in an expression are balanced.
 
-These summarize the activity material; official course CILO mapping is TBA.
+## Files
 
-## Source Files
+| File | Contents |
+| --- | --- |
+| [supplementaryLINKEDLIST.cpp](supplementaryLINKEDLIST.cpp) | C++ source |
+| [supplementaryARRAY.cpp](supplementaryARRAY.cpp) | C++ source |
+| [ILOBp2.cpp](ILOBp2.cpp) | C++ source |
+| [CPE010_HOA4p1_Acala.pdf](CPE010_HOA4p1_Acala.pdf) | Report |
 
-- [supplementaryLINKEDLIST.cpp](supplementaryLINKEDLIST.cpp)
-- [supplementaryARRAY.cpp](supplementaryARRAY.cpp)
-- [ILOBp2.cpp](ILOBp2.cpp)
+Each program with its own `main()` function is a separate exercise. Source files retain their original contents and filenames.
 
-The original source contents and filenames are preserved. Programs with separate `main()` functions should be built individually.
-
-## Submitted Materials
-
-- [CPE010_HOA4p1_Acala.pdf](https://drive.google.com/file/d/1qfE11LB0RiTQPjdYz0vtr1oi54hAt7aH/view?usp=drivesdk)
-
-[Original Drive folder](https://drive.google.com/drive/folders/1GeqTxCKqUj132UGy2WZZPdiy_-CHys5R)
-
-[Back to Prelims HOA](../)
+[Activity index](../) · [Course overview](../../../README.md) · [Original submission](https://drive.google.com/drive/folders/1GeqTxCKqUj132UGy2WZZPdiy_-CHys5R)

@@ -1,13 +1,12 @@
-# SW 3 | Singly Linked Lists
+# Singly Linked Lists
 
-Node definitions, traversal, head and tail insertion, position-based insertion, and deletion.
+**Prelims · Seatwork 3**  
+CPE010 · A.Y. 2026–2027
 
-No standalone C++ source files were included in this Drive folder.
+## Files
 
-## Submitted Materials
+| File | Contents |
+| --- | --- |
+| [CPE 010_SW3p1_Acala.pdf](CPE%20010_SW3p1_Acala.pdf) | Report |
 
-- [CPE 010_SW3p1_Acala.pdf](https://drive.google.com/file/d/1bvlebQlEgPadqOhTRV6Dh-WZoQEhmgts/view?usp=drivesdk)
-
-[Original Drive folder](https://drive.google.com/drive/folders/1_EZDJREnBOD1GOrNlqnQ-gTuA5tqwtR-)
-
-[Back to Prelims SW](../)
+[Activity index](../) · [Course overview](../../../README.md) · [Original submission](https://drive.google.com/drive/folders/1_EZDJREnBOD1GOrNlqnQ-gTuA5tqwtR-)

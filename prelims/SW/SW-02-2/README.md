@@ -1,13 +1,14 @@
-# SW 2.2 | TBA
+# Arrays, Pointers, and Dynamic Memory Review
 
-A screenshot submission is available in Drive. Its topic has not been confirmed.
+**Prelims · Seatwork 2.2**  
+CPE010 · A.Y. 2026–2027
 
-No standalone C++ source files were included in this Drive folder.
+Kahoot review for Module 2: Arrays, Pointers, and Dynamic Memory Allocation.
 
-## Submitted Materials
+## Files
 
-- [Screenshot 2026-07-15 124354.png](https://drive.google.com/file/d/131BXC81oyIbrV9S6T2hpjpKJwEO_5_I_/view?usp=drivesdk)
+| File | Contents |
+| --- | --- |
+| [Screenshot 2026-07-15 124354.png](Screenshot%202026-07-15%20124354.png) | Screenshot |
 
-[Original Drive folder](https://drive.google.com/drive/folders/1G1MtXaE14Yd7-xUgQNxxR9MdEfoZ4esf)
-
-[Back to Prelims SW](../)
+[Activity index](../) · [Course overview](../../../README.md) · [Original submission](https://drive.google.com/drive/folders/1G1MtXaE14Yd7-xUgQNxxR9MdEfoZ4esf)

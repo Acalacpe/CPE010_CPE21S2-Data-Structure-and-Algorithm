@@ -1,31 +1,27 @@
-# HOA 3 | Linked Lists
+# Linked Lists
 
-Doubly linked list operations and a circular doubly linked list playlist.
+**Prelims · Hands-on Activity 3**  
+CPE010 · A.Y. 2026–2027
 
-## Activity Learning Outcomes
+## Learning Objectives
 
 - Apply linked lists to solve programming problems.
 - Implement traversal, insertion, and deletion, including circular playlist operations.
 
-These summarize the activity material; official course CILO mapping is TBA.
+## Files
 
-## Source Files
+| File | Contents |
+| --- | --- |
+| [main(supplementary).cpp](main%28supplementary%29.cpp) | C++ source |
+| [circular_doubly_ll.h](circular_doubly_ll.h) | Header |
+| [main(procedure).cpp](main%28procedure%29.cpp) | C++ source |
+| [doubly_ll.h](doubly_ll.h) | Header |
+| [HOA_3p1_Acala.pdf](HOA_3p1_Acala.pdf) | Report |
 
-- [main(supplementary).cpp](main%28supplementary%29.cpp)
-- [circular_doubly_ll.h](circular_doubly_ll.h)
-- [main(procedure).cpp](main%28procedure%29.cpp)
-- [doubly_ll.h](doubly_ll.h)
-
-The original source contents and filenames are preserved. Programs with separate `main()` functions should be built individually.
-
-## Submitted Materials
-
-- [HOA_3p1_Acala.pdf](https://drive.google.com/file/d/1KOAgyWAnKLpcoKNosWLpBEMAQQVlL05w/view?usp=drivesdk)
-
-[Original Drive folder](https://drive.google.com/drive/folders/1cDpNbTyD_cQQMYvMASk92T5x45aFx9QB)
+Each program with its own `main()` function is a separate exercise. Source files retain their original contents and filenames.
 
 ## Source Notes
 
 The procedure program includes `singly_ll.h`, which is not present in the shared folder. It needs that dependency or a reviewed include change before it can be compiled. The report's header repeats the previous activity title; this topic label follows the linked-list content and source files.
 
-[Back to Prelims HOA](../)
+[Activity index](../) · [Course overview](../../../README.md) · [Original submission](https://drive.google.com/drive/folders/1cDpNbTyD_cQQMYvMASk92T5x45aFx9QB)

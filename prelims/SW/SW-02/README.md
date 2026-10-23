@@ -1,13 +1,12 @@
-# SW 2.1 | Pointer Memory Diagrams and Object Lifecycle
+# Pointer Memory Diagrams and Object Lifecycle
 
-Pointer initialization and allocation diagrams, constructors, destructors, and copy operations.
+**Prelims · Seatwork 2**  
+CPE010 · A.Y. 2026–2027
 
-No standalone C++ source files were included in this Drive folder.
+## Files
 
-## Submitted Materials
+| File | Contents |
+| --- | --- |
+| [SW 2.1.pdf](SW%202.1.pdf) | Report |
 
-- [SW 2.1.pdf](https://drive.google.com/file/d/1zYvQSHFHZ5-EkYh7rfAH-fOmPLcV75JF/view?usp=drivesdk)
-
-[Original Drive folder](https://drive.google.com/drive/folders/1Yd0Nbm8KUv_MSwF2PnHQ8MNU4pTk3_8l)
-
-[Back to Prelims SW](../)
+[Activity index](../) · [Course overview](../../../README.md) · [Original submission](https://drive.google.com/drive/folders/1Yd0Nbm8KUv_MSwF2PnHQ8MNU4pTk3_8l)
