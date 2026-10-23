@@ -36,4 +36,3 @@ This course portfolio aims to:
 | Midterms | TBA | [TBA](midterms/HOA/) |
 | Finals | TBA | [TBA](finals/HOA/) |
 
-Each topic links to its corresponding HOA or SW folder. Submitted reports are linked from the activity folders, alongside the available C++ source files.
