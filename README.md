@@ -38,12 +38,10 @@ My course portfolio for CPE010, organized into Prelims, Midterms, and Finals. It
 
 ## CILO and Topics
 
-**CILO** means **Course Intended Learning Outcome**. The short summaries below reflect the submitted coursework.
+**Course Intended Learning Outcome**. The short summaries below reflect the submitted coursework.
 
 | Term | CILO Summary | Topics |
 | :--- | :--- | :--- |
 | **Prelims** | Apply C++ fundamentals and implement linear data structures. | [C++ Fundamentals and Classes](prelims/HOA/HOA-01/)<br>[Functions and Conditional Statements](prelims/SW/SW-01/)<br>[Arrays, Pointers, and Dynamic Memory Allocation](prelims/HOA/HOA-02/)<br>[Pointer Memory Diagrams and Object Lifecycle](prelims/SW/SW-02/)<br>[Arrays, Pointers, and Dynamic Memory Review](prelims/SW/SW-02-2/)<br>[Linked Lists](prelims/HOA/HOA-03/)<br>[Singly Linked Lists](prelims/SW/SW-03/)<br>[Stacks](prelims/HOA/HOA-04/)<br>[Stacks Using STL and Static Arrays](prelims/SW/SW-04/)<br>[Queues and Circular Arrays](prelims/HOA/HOA-05/) |
 | **Midterms** | Implement searching, sorting, trees, and graphs. | [Searching Techniques](midterms/HOA/HOA-06/)<br>[Bubble, Selection, and Insertion Sort](midterms/HOA/HOA-07/)<br>[Sorting Algorithms](midterms/SW/SW-07/)<br>[Shell, Merge, and Quick Sort](midterms/HOA/HOA-08/)<br>[Quick, Shell, and Merge Sort](midterms/SW/SW-08/)<br>[Binary Search Trees and Traversal](midterms/HOA/HOA-09/)<br>[Binary Trees](midterms/SW/SW-09/)<br>[Graph Representation and Traversal](midterms/HOA/HOA-10/)<br>[Graph Concepts](midterms/SW/SW-10/) |
 | **Finals** | Analyze algorithm efficiency and apply advanced strategies. | [Algorithm Runtime Analysis](finals/HOA/HOA-11/)<br>[Algorithmic Strategies](finals/HOA/HOA-12/)<br>[Parallel Algorithms and Multithreading](finals/HOA/HOA-13/)<br>[Algorithmic Complexity](finals/HOA/HOA-14/)<br>[Skills Exam: Stacks and Queues](finals/HOA/HOA-15/) |
-
-Each topic opens its activity folder. Reports and screenshots are stored alongside the available source files.
