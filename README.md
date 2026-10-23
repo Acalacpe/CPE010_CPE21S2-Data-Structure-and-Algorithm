@@ -32,8 +32,8 @@ This course portfolio aims to:
 
 | Term | Course Intended Learning Outcome (CILO) | Topics |
 | --- | --- | --- |
-| Prelims | TBA | [TBA](prelims/topics/TBA/) |
-| Midterms | TBA | [TBA](midterms/topics/TBA/) |
-| Finals | TBA | [TBA](finals/topics/TBA/) |
+| Prelims | TBA | [TBA](prelims/HOA/) |
+| Midterms | TBA | [TBA](midterms/HOA/) |
+| Finals | TBA | [TBA](finals/HOA/) |
 
-Topic links lead to placeholder folders and will be updated when the course topics are provided.
+Topics are discussed in the Hands-on Activities (HOA). Each topic link opens the corresponding term's HOA folder; topic titles remain TBA.
